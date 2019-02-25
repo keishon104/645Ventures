@@ -1,0 +1,21 @@
+.rightModule {
+  width: 100%;
+  height: 100%;
+}
+.rightModule .mmr {
+  /* background-color: #EDEDED; */
+  width: 100%;
+  height: 33%;
+}
+
+.rightModule .market {
+  /* background-color: #FDEAEA; */
+  width: 100%;
+  height: 33%;
+}
+
+.rightModule .cashFlow {
+  /* background-color: #EDEDED; */
+  width: 100%;
+  height: 30%;
+}
