@@ -83,7 +83,7 @@ class RightModule extends Component {
             </Row>
           </Row>
           <Row className="cashFlow">
-            <Row><h4>Cash Flow</h4></Row>
+            <Row><h4>Revenue</h4></Row>
             <Row>
               <BarChart
                 width={500}
