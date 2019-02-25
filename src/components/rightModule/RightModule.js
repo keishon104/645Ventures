@@ -41,7 +41,7 @@ class RightModule extends Component {
             <Row>
               <BarChart
                 width={500}
-                height={300}
+                height={250}
                 data={data}
                 stackOffset="sign"
                 margin={{
@@ -64,7 +64,7 @@ class RightModule extends Component {
             <Row>
               <BarChart
                 width={500}
-                height={300}
+                height={250}
                 data={data}
                 stackOffset="sign"
                 margin={{
@@ -87,7 +87,7 @@ class RightModule extends Component {
             <Row>
               <BarChart
                 width={500}
-                height={300}
+                height={250}
                 data={data}
                 stackOffset="sign"
                 margin={{

@@ -13,16 +13,16 @@ class NavigationBar extends Component {
         <Navbar.Collapse id="basic-navbar-nav">
           <Nav className="mr-auto">
             <NavDropdown title="Companies" id="basic-nav-dropdown">
-              <NavDropdown.Item href="#action/3.1">PhantomBuster</NavDropdown.Item>
-              <NavDropdown.Item href="#action/3.2">AptDeco</NavDropdown.Item>
-              <NavDropdown.Item href="#action/3.3">VooDoo Manufacturing</NavDropdown.Item>
+              <NavDropdown.Item href="/">PhantomBuster</NavDropdown.Item>
+              <NavDropdown.Item href="https://645ventures.com/portfolio/aptdeco">AptDeco</NavDropdown.Item>
+              <NavDropdown.Item href="https://645ventures.com/portfolio/voodoomfg">VooDoo Manufacturing</NavDropdown.Item>
             </NavDropdown>
           </Nav>
           <Form inline>
-            <FormControl type="text" placeholder="Search" className="mr-sm-2" />
+            <FormControl type="text" placeholder="Startup Name" className="mr-sm-2" />
             <Button variant="outline-success">Search</Button>
           </Form>
-          <Nav.Link href="#link">Log Out</Nav.Link>
+          <Nav.Link href="https://645ventures.com/">Log Out</Nav.Link>
 
         </Navbar.Collapse>
       </Navbar>

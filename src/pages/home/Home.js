@@ -11,13 +11,10 @@ const Home = () => {
     return (
       <div>
         <NavigationBar/>
-      <Container>
-
-      </Container>
         <Row className="modules">
-          <Col><LeftModule/></Col>
-          <Col><MiddleModule/></Col>
-          <Col><RightModule/></Col>
+        <Col><LeftModule/></Col>
+        <Col><MiddleModule/></Col>
+        <Col><RightModule/></Col>
         </Row>
       </div>
     )
