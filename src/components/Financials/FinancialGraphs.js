@@ -17,7 +17,7 @@ class FinancialGraphs extends React.Component {
           <h4>{this.sectionTitle}</h4><br/>
           <Row>
             <BarChart
-              width={500}
+              width={400}
               height={250}
               data={data}
               stackOffset="sign"

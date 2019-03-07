@@ -1,4 +1,3 @@
-
 const data = [
   {
     Positive: 4000, Negative: 2400, amt: 2400,

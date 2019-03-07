@@ -1,5 +1,3 @@
-const dataAll = [{data}, {data1}];
-
 const data = [
   {
     Retweets: 4000, Mentions: 2400, amt: 2400,
@@ -24,8 +22,6 @@ const data = [
   },
 ];
 
-
-const data1 = [];
 
 
 
